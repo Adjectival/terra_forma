@@ -1,12 +1,12 @@
 # _Terra Forma_
 
-#### _Date:_
+#### _October 2016_
 
 #### By _**Megan Kaluza, Marty Fitchen, Alex Jacks, Addison Nishijima**_
 
 ## Description
 
-_This web application acts as a city planner for colonists in route to Mars. It allows users to select one of four potential settlements and select/place buildings to generate a community. Users can submit finished community proposals, and colony officers can view all submitted community proposals._
+_This web application acts as a city planner for colonists en route to Mars. The prototyped concept will allow users to select one of four potential settlements and then place buildings to generate a community. Users can submit finished community proposals, and colony officers can view all submitted community proposals._
 
 ## Setup/Installation Requirements
 
@@ -20,23 +20,26 @@ _No known bugs at this time_
 
 ## Support and contact details
 
-_Megan Kaluza_
-* _email: megan.kaluza@gmail.com_
-
-_Marty Fitchen_
-* _email: mfitchen@gmail.com_
-
 _Alex Jacks_
 * _email: alexd.jacks@gmail.com_
+
+_Megan Kaluza_
+* _email: megan.kaluza@gmail.com_
 
 _Addison Nishijima_
 * _email: addison.nishijima@gmail.com_
 
+_Marty Fitchen_
+* _email: mfitchen@gmail.com_
+
+
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Squirrelfont_
+*SketchApp
+*InVision
+*HTML5
+*CSS3
+*Squirrelfont
 
 ### License
 
